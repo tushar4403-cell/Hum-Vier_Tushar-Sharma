@@ -38,18 +38,34 @@
 - Zero animation lag or stutter. Enhanced with hardware-accelerated transforms (`transform-gpu`, `will-change: transform, opacity`) and optimized modal spring physics.
 
 ---
-🌍 United Nations Sustainable Development Goals (UNSDGs)
+
+## 🌍 United Nations Sustainable Development Goals (UNSDGs)
+
 Fixo aligns with the following United Nations Sustainable Development Goals through its focus on local employment opportunities, digital innovation, and inclusive access to services.
 
-SDG 8: Decent Work and Economic Growth     SDG 9: Industry, Innovation and Infrastructure     SDG 10: Reduced Inequalities
+<p align="center">
+  <a href="https://sdgs.un.org/goals/goal8">
+    <img src="https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-08.jpg" alt="SDG 8: Decent Work and Economic Growth" width="180"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://sdgs.un.org/goals/goal9">
+    <img src="https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-09.jpg" alt="SDG 9: Industry, Innovation and Infrastructure" width="180"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://sdgs.un.org/goals/goal10">
+    <img src="https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-10.jpg" alt="SDG 10: Reduced Inequalities" width="180"/>
+  </a>
+</p>
 
-🎯 Our Contribution
-SDG 8 — Decent Work and Economic Growth: Supports local service professionals by connecting them with potential customers and providing digital tools for managing bookings and earnings.
-SDG 9 — Industry, Innovation and Infrastructure: Uses a modern digital platform to improve local service discovery, booking, and service-partner management.
-SDG 10 — Reduced Inequalities: Aims to expand digital opportunities for independent workers and small local service providers.
-Primary Goal: SDG 8 — Decent Work and Economic Growth.
+### 🎯 Our Contribution
 
-These goals represent Fixo's intended contributions; actual impact depends on platform adoption and implementation.
+- **SDG 8 — Decent Work and Economic Growth:** Supports local service professionals by connecting them with potential customers and providing digital tools for managing bookings and earnings.
+- **SDG 9 — Industry, Innovation and Infrastructure:** Uses a modern digital platform to improve local service discovery, booking, and service-partner management.
+- **SDG 10 — Reduced Inequalities:** Aims to expand digital opportunities for independent workers and small local service providers.
+
+**Primary Goal:** SDG 8 — Decent Work and Economic Growth.
+
+*These goals represent Fixo's intended contributions; actual impact depends on platform adoption and implementation.*
 
 ---
 
