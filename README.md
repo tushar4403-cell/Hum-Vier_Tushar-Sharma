@@ -38,7 +38,6 @@
 - Zero animation lag or stutter. Enhanced with hardware-accelerated transforms (`transform-gpu`, `will-change: transform, opacity`) and optimized modal spring physics.
 
 ---
----
 
 ## 🌍 United Nations Sustainable Development Goals (UNSDGs)
 
