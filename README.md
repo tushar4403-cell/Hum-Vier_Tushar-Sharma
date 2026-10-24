@@ -38,6 +38,20 @@
 - Zero animation lag or stutter. Enhanced with hardware-accelerated transforms (`transform-gpu`, `will-change: transform, opacity`) and optimized modal spring physics.
 
 ---
+🌍 United Nations Sustainable Development Goals (UNSDGs)
+Fixo aligns with the following United Nations Sustainable Development Goals through its focus on local employment opportunities, digital innovation, and inclusive access to services.
+
+SDG 8: Decent Work and Economic Growth     SDG 9: Industry, Innovation and Infrastructure     SDG 10: Reduced Inequalities
+
+🎯 Our Contribution
+SDG 8 — Decent Work and Economic Growth: Supports local service professionals by connecting them with potential customers and providing digital tools for managing bookings and earnings.
+SDG 9 — Industry, Innovation and Infrastructure: Uses a modern digital platform to improve local service discovery, booking, and service-partner management.
+SDG 10 — Reduced Inequalities: Aims to expand digital opportunities for independent workers and small local service providers.
+Primary Goal: SDG 8 — Decent Work and Economic Growth.
+
+These goals represent Fixo's intended contributions; actual impact depends on platform adoption and implementation.
+
+---
 
 ## 📁 Project Architecture
 
